@@ -1,5 +1,5 @@
 #eddiehome
 vmess://YXV0bzowMGUwYzgwYS1lMDdkLTQ3MTUtYjlkMC1kNGZlYzAyYzA2MjlANDUuNzYuMjkuMjE1Ojg4ODg?remarks=ip_45.76.29.215&obfs=tcp&cert=
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6YjI0N2JlNzEtMzJiZC0zZGY1LWE5ZjItODEwYjViZGQ1ZTY5QHNkLmRqc3ltLmNvbTo2MDAzMQ?remarks=%E9%A6%99%E6%B8%AF03%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E9%9A%A7%E9%81%93%E4%BC%98%E5%8C%96&obfsParam=sd.djsym.com&path=/qq&obfs=websocket&cert=
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDExLkhLLkFQLlBPUC5CSUdBSVJQT1JULk5FVDo0NDM?remarks=%E3%80%90%E7%9B%B4%E8%BF%9E%E3%80%91HKG/%E9%A6%99%E6%B8%AF%20B%20-%201&obfs=websocket&tls=1&peer=&cert=
 trojan://T9MTTc@lfnwiki.tkblogs.win:443/?peer=#ed%20HK%E8%8A%82%E7%82%B9
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6YjI0N2JlNzEtMzJiZC0zZGY1LWE5ZjItODEwYjViZGQ1ZTY5QHNkLmRqc3ltLmNvbTo1MDA5Nw?remarks=%E7%BE%8E%E5%9B%BD01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E9%AB%98%E7%BA%A7%E9%9A%A7%E9%81%93&obfsParam=sd.djsym.com&path=/qq&obfs=websocket&cert=
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDAzLkhLLkFQLlBPUC5CSUdBSVJQT1JULk5FVDo4MA?remarks=ed%20HKG/%E9%A6%99%E6%B8%AF%20A%20-%203&obfs=websocket&cert=
