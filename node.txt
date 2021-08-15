@@ -1,7 +1,5 @@
 #eddiehome
-ss://cmM0LW1kNToyMjE0MEJAc2dwMDYuY2xhc2hjbG91ZC50ZWNoOjQ5ODE1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20Magic%20IEPL
-ss://cmM0LW1kNToyMjE0MEJAdHcwOC5jbGFzaGNsb3VkLnRlY2g6NDk4MTU#%E4%B8%AD%E5%9B%BD-%E5%8F%B0%E6%B9%BE 
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@kr03.naigai.one:443?allowInsecure=0&peer=kr03.naigai.one&sni=kr03.naigai.one#%E9%9F%A9%E5%9B%BD03%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E7%9B%B4%E8%BF%9E%E7%BA%BF%E8%B7%AF
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:30011?allowInsecure=0&peer=jp06.naigai.one&sni=jp06.naigai.one#%E6%97%A5%E6%9C%AC01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
-trojan://U2Q4EyzpHph84whaz9@fm1-1.nrojat.com:443
-ssr://Y24tNi5jcmhub2RlLnRvcDo1NjU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz02YWFaNXJpdiZwcm90b3BhcmFtPSZvYmZzcGFyYW09TVRrMU1UY3RZemRrT1hZd2N6UlJUaTVrYjNkdWJHOWhaQzV0YVdOeWIzTnZablF1WTI5dA
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33894?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD01
+trojan://T9MTTc@kcd.tkblogs.win:443?peer=#ed%20US%E8%8A%82%E7%82%B9
+ssr://aHIwMS5jbGFzaGNsb3VkLnRlY2g6NDk4MTU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6TWpJeE5EQkMvP3JlbWFya3M9NUxpdDVadTlMZWFYcGVhY3JBJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
+trojan://T9MTTc@kr69.pikaqiu.win:443?peer=#ed%20%E9%9F%A9%E5%9B%BD
