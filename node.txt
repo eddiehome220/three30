@@ -1,5 +1,5 @@
 #eddiehome
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33894?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD01
-trojan://T9MTTc@kcd.tkblogs.win:443?peer=#ed%20US%E8%8A%82%E7%82%B9
-ssr://aHIwMS5jbGFzaGNsb3VkLnRlY2g6NDk4MTU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6TWpJeE5EQkMvP3JlbWFya3M9NUxpdDVadTlMZWFYcGVhY3JBJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
-trojan://T9MTTc@kr69.pikaqiu.win:443?peer=#ed%20%E9%9F%A9%E5%9B%BD
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33897/?peer=tw01.bot666.xyz#%E5%8F%B0%E6%B9%BE01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr2.naigai.one:36551/?peer=sg04.bot666.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A104%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
+ssr://djMtbm9kZTQzLm1pbWVtaS15N2V6LmNvbTo3OTAxOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9WldRZzVaeWY2SUN6NVlXMklFRSZwcm90b3BhcmFtPU1UVTBNek02YldsdFpXMXAmb2Jmc3BhcmFtPWFHc3ljMk5vTjJObFlURXhOVFF6TXk1M2JuTXVkMmx1Wkc5M2N5NWpiMjA
+ss://YWVzLTEyOC1nY206OUNVNDRJ@in02.node.beer:8611/?plugin=simple-obfs;obfs=http;obfs-host=df04b36534.microsoft.com;obfs-uri=/#%E6%97%A5%E6%9C%AC%2001
