@@ -1,5 +1,5 @@
 #eddiehome
 ssr://Y24tNi5jcmhub2RlLnRvcDo1NjA6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz02YWFaNXJpdklPUzRyUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09TWpBeE5EZ3RkSGwwZVhSNWRIa3VaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE
-trojan://9883778d-1d25-47fc-abfc-a76da13b4957@36.133.82.57:54804/?peer=lsj3.aoyou.cyou&tfo=1#%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%99%BA%E8%83%BD3%E4%B8%AD
-trojan://9883778d-1d25-47fc-abfc-a76da13b4957@112.33.52.65:47337/?peer=lsj2.aoyou.cyou&tfo=1#%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%BC%98%E5%8C%96
-vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAZ3p0Yy5obnloZ2wuY29tOjIwMDA3?remarks=%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+ssr://djItbm9kZTE1Lm1pbWVtaS11MXNkLmNvbTo3MTA4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NTc2TzVadTlJREF4JnByb3RvcGFyYW09TVRVME16TTZiV2x0WlcxcCZvYmZzcGFyYW09YUdzeWMyTm9OMk5sWVRFeE5UUXpNeTUzYm5NdWQybHVaRzkzY3k1amIyMA
+trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@hgc1.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E9%A6%99%E6%B8%AFHGC
+trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@tw.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E5%8F%B0%E7%81%A3
