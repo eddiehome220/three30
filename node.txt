@@ -1,5 +1,5 @@
 #eddiehome
 ssr://Y24tNi5jcmhub2RlLnRvcDo1NjA6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz02YWFaNXJpdklPUzRyUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09TWpBeE5EZ3RkSGwwZVhSNWRIa3VaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE
-ssr://djItbm9kZTE1Lm1pbWVtaS11MXNkLmNvbTo3MTA4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NTc2TzVadTlJREF4JnByb3RvcGFyYW09TVRVME16TTZiV2x0WlcxcCZvYmZzcGFyYW09YUdzeWMyTm9OMk5sWVRFeE5UUXpNeTUzYm5NdWQybHVaRzkzY3k1amIyMA
-trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@hgc1.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E9%A6%99%E6%B8%AFHGC
-trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@tw.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E5%8F%B0%E7%81%A3
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbjIuaG55aGdsLmNvbToyMDAwNQ?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbjIuaG55aGdsLmNvbToyMDAwNg?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbS5obnloZ2wuY29tOjIwMDAy?remarks=%E9%A6%99%E6%B8%AF&obfsParam=hgc.curltron.com&path=/game&obfs=websocket&tls=1&alterId=0
