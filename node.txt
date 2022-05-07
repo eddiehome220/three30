@@ -3,3 +3,4 @@ trojan://a9289ac3-90a6-328c-b0dc-2cc73bb9d6b8@shcm.hnyhgl.com:30001/?peer=api.fl
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbjIuaG55aGdsLmNvbToyMDAwOQ?remarks=%E5%8F%B0%E6%B9%BE-&obfsParam=tw108.1loli.pw&path=/game&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAZ3p0Yy5obnloZ2wuY29tOjIwMDA4?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1-&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA3?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+ss://YWVzLTEyOC1nY206MDMyOTBlOWEtZTJjMy00NjVmLTlkMTUtM2M4MGQ5ZTNhYTM4QGNtLnhyYXlwb3J0Lm9uZTozNzU1Nw#%E6%97%A5%E6%9C%AC01
