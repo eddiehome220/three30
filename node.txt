@@ -1,3 +1,6 @@
 #eddiehome
+vmess://YXV0bzphZWViNjM2Yy1iOTQ4LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmJAaGt0LmdvdG9jaGluYXRvd24ubmV0Ojgw?remarks=%E9%A6%99%E6%B8%AF%E7%B2%BE%E5%93%81&obfsParam=broadcastlv.chat.bilibili.com&obfs=websocket&alterId=2
+trojan://aeeb636c-b948-11ec-bd7c-f23c913c8d2b@us.tcpbbr.net:443#%E7%BE%8E%E5%9C%8B%E7%B6%9C%E5%90%88
+vmess://YXV0bzphZWViNjM2Yy1iOTQ4LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmJAaGtibjIudGNwYmJyLm5ldDo4MA?remarks=%E9%A6%99%E6%B8%AFHKBN&obfsParam=broadcastlv.chat.bilibili.com&obfs=websocket&alterId=2
 ssr://anAwOC5tZWxsYW5veC5pbmZvOjE4ODEzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOmFYQjBNWGc1Lz9yZW1hcmtzPTVMaXQ1WnU5TGVhWHBRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
 ssr://aXIwMS5tZWxsYW5veC5pbmZvOjE4ODEzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOmFYQjBNWGc1Lz9yZW1hcmtzPTVMaXQ1WnU5TGVlSXNlV3dsQSZwcm90b3BhcmFtPSZvYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjA
