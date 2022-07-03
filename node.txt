@@ -2,3 +2,4 @@
 trojan://08ce97bf-e053-40e3-9282-58af3592f32e@zlaz1.portxray.xyz:443/?peer=zlaz1.portxray.xyz&tfo=1#%E9%A6%99%E6%B8%AF
 trojan://08ce97bf-e053-40e3-9282-58af3592f32e@lease.serverpointer.top:8848/?peer=hkt.portxray.xyz&tfo=1#%E9%A6%99%E6%B8%AF%20HKT
 vmess://YXV0bzowOGNlOTdiZi1lMDUzLTQwZTMtOTI4Mi01OGFmMzU5MmYzMmVAYXdzYTEubm1jZmhwdS5jbjo4MA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphZWViNjM2Yy1iOTQ4LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmJAc3RhdGljLnRjcGJici5uZXQ6ODA?remarks=%E7%BE%8E%E5%9C%8B-%E6%B4%9B%E6%9D%89%E7%9F%B6&obfsParam=www.hgcbroadband.com&obfs=websocket&alterId=2
